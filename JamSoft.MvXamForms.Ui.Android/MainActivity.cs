@@ -1,7 +1,6 @@
 ﻿using Android.App;
 using Android.Content.PM;
 using Android.OS;
-using Android.Views;
 using JamSoft.MvXamForms.Core;
 using MvvmCross.Forms.Platforms.Android.Views;
 
@@ -20,10 +19,6 @@ namespace JamSoft.MvXamForms.Ui.Droid
         {
             TabLayoutResource = Resource.Layout.Tabbar;
             ToolbarResource = Resource.Layout.Toolbar;
-            
-            //RequestWindowFeature(WindowFeatures.NoTitle);
-
-            //Window.RequestFeature(WindowFeatures.NoTitle);
 
             base.OnCreate(savedInstanceState);
             Xamarin.Forms.Forms.Init(this, savedInstanceState);

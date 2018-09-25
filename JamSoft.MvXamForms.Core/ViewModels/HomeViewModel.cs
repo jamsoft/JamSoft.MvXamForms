@@ -23,8 +23,6 @@ namespace JamSoft.MvXamForms.Core.ViewModels
 
         public override void Start()
         {
-            base.Start();
-
             Message = "Welcome to MvXamForms!";
         }
     }
