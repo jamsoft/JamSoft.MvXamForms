@@ -9,6 +9,7 @@ It also makes for a useful real world example of how you might want to structure
 # Projects
 
 | Project Name | Description |
+| --- | --- |
 | JamSoft.MvXamForms.Core | All UI agnostic logic and view models |
 | JamSoft.MvXamForms.Ui | Views and Ui related classes and Custom controls etc. |
 | JamSoft.MvXamForms.Ui.Android | Xamarin Forms Android application |
