@@ -30,8 +30,8 @@ It also makes for a useful real world example of how you might want to structure
 - [ ] Add in some demo plugins
 - [ ] Add in some kind of API integration
 
-# Xamarin Live.Reload
+# Xamarin.Live.Reload
 
-If you're struggling to find the NuGet package Xamarin.Live.Reload. Open the package manager and make sure you have the source set to All. The extension installs the package in your local cache, which is why it's not on NuGet. Nothing like leading by example eh!
+If you're struggling to find the NuGet package Xamarin.Live.Reload. Open the package manager and make sure you have the package source set to All, not just nuget.org. The extension installs the Xamarin.Live.Reload package into your local package cache. Which is why you can't find it, it's not there!
 
 Critiques and pull requests most welcome :) :+1:
