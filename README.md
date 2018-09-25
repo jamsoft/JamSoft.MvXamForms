@@ -23,4 +23,15 @@ It also makes for a useful real world example of how you might want to structure
 - Android Support 27.0.2.1
 - Xamarin.Live.Reload 0.3.27
 
+# Tasks
+
+- [x] Prove Reload works with MvvmCross!
+- [ ] Add in some demo services
+- [ ] Add in some demo plugins
+- [ ] Add in some kind of API integration
+
+# Xamarin Live.Reload
+
+If you're struggling to find the NuGet package Xamarin.Live.Reload. Open the package manager and make sure you have the source set to All. The extension installs the package in your local cache, which is why it's not on NuGet. Nothing like leading by example eh!
+
 Critiques and pull requests most welcome :) :+1:
