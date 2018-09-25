@@ -17,10 +17,10 @@ It also makes for a useful real world example of how you might want to structure
 
 # Referenced Packages
 
-MvvmCross 6.2.0
-Xamarin Forms 3.1.0.697729
-Xam.Plugin.DeviceInfo 3.1.0
-Android Support 27.0.2.1
-Xamarin.Live.Reload 0.3.27
+- MvvmCross 6.2.0
+- Xamarin Forms 3.1.0.697729
+- Xam.Plugin.DeviceInfo 3.1.0
+- Android Support 27.0.2.1
+- Xamarin.Live.Reload 0.3.27
 
-Critiques and pull requests most welcome :)
+Critiques and pull requests most welcome :) :+1:
