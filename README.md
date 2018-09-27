@@ -15,6 +15,12 @@ It also makes for a useful real world example of how you might want to structure
 | JamSoft.MvXamForms.Ui.Android | Xamarin Forms Android application |
 | JamSoft.MvXamForms.Ui.iOS | Xamarin Forms iOS application |
 
+# Dependencies
+
+You must install the Xamarin.Live.Reload Visual Studio Extension in order to get the Xamarin.Live.Reload NuGet package (see notes below).  You can get it here:
+
+https://marketplace.visualstudio.com/items?itemName=Xamarin.XamarinLiveReload
+
 # Referenced Packages
 
 - MvvmCross 6.2.0
