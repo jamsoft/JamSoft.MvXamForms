@@ -40,4 +40,6 @@ https://marketplace.visualstudio.com/items?itemName=Xamarin.XamarinLiveReload
 
 If you're struggling to find the NuGet package Xamarin.Live.Reload. Open the package manager and make sure you have the package source set to All, not just nuget.org. The extension installs the Xamarin.Live.Reload package into your local package cache. Which is why you can't find it, it's not there!
 
+If you see any errors when saving XAML files first thing to do is configure your solution to show all Common Language Runtime Exceptions and see what is the problem. Fften it's down to custom renderers or effects and could be a simple missing null check.
+
 Critiques and pull requests most welcome :) :+1:
